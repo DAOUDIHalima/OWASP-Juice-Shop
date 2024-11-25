@@ -4,7 +4,8 @@ name: Implementing a DevSecOps CI/CD Pipeline for OWASP Juice Shop Using GitHub 
 on:
   push:
     branches:
-      - master
+      - main
+
 
 permissions:
   contents: write
